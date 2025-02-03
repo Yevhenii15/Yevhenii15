@@ -43,7 +43,7 @@ I am Yevhenii Motov, a 19-year-old **web developer** from Ukraine, currently adv
 ## 📈 GitHub Stats
 ![Yevhenii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yevhenii15&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevhenii15&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevhenii15&layout=compact&theme=radical)
 
 ---
 
