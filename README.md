@@ -13,7 +13,7 @@ I am Yevhenii Motov, a 19-year-old **web developer** from Ukraine, currently adv
 ## 💻 Tech Stack & Skills
 ### **Web Development**
 - Frontend: **HTML, CSS/SCSS, JavaScript, TypeScript, Vue.js, Tailwind CSS, Bootstrap**
-- Backend: **PHP (OOP, MVC), SQL (MySQL, Firebase, MongoDB)**
+- Backend: **PHP (OOP, MVC), SQL (MySQL), NoSQL (Firebase, MongoDB), RestAPI**
 - Web Security: **XSS, CSRF, SQL Injection Protection**
 - CMS: **WordPress (ACF, CF7, WooCommerce, Polylang)**
 - Tools: **Git, Jenkins, Webflow**
