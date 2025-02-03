@@ -1,7 +1,7 @@
 # Hi there! I'm Yevhenii Motov 👋
 
 ## 🌐 About Me
-I am Yevhenii Motov, a 19-year-old **web developer** from Ukraine, currently advancing my skills in Denmark. I completed my **Multimedia Design** degree in June 2024 and am now pursuing a **Bachelor’s in Web Development**. Passionate about crafting **functional, secure, and visually appealing web applications**, I thrive on problem-solving and continuous learning.
+I am Yevhenii Motov, a 19-year-old **web developer** from Ukraine, currently advancing my skills in Denmark. I completed my **Multimedia Design** degree in June 2024 and am now pursuing a **Bachelor’s in Web Development**. Passionate about crafting **functional, secure, and visually appealing web applications**, I thrive on problem-solving and continuous learning. 
 
 🔹 **Location:** Esbjerg, Denmark 🇩🇰  
 🔹 **Email:** [motov150805@gmail.com](mailto:motov150805@gmail.com)  
